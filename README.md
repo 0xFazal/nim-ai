@@ -25,7 +25,7 @@ The AI trains by playing thousands of games against itself, gradually learning w
 1. Clone the repository:
 ```bash
 git clone https://github.com/0xFazal/nim-ai.git
-cd nim
+cd nim-ai
 ```
 
 2. Ensure you have Python 3.6+ installed. No external dependencies are required.
