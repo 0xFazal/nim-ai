@@ -24,7 +24,7 @@ The AI trains by playing thousands of games against itself, gradually learning w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/0xFazal/nim.git
+git clone https://github.com/0xFazal/nim-ai.git
 cd nim
 ```
 
